@@ -1,0 +1,11 @@
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\bin\Debug\XmlToJsonConverter.exe.config
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\bin\Debug\XmlToJsonConverter.exe
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\bin\Debug\XmlToJsonConverter.pdb
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\bin\Debug\Newtonsoft.Json.pdb
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\obj\Debug\XmlToJsonConverter.frmXmlToJsonConverter.resources
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\obj\Debug\XmlToJsonConverter.Properties.Resources.resources
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\obj\Debug\XmlToJsonConverter.csproj.GenerateResource.Cache
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\obj\Debug\XmlToJsonConverter.exe
+D:\Projects\XmlToJsonConverter\XmlToJsonConverter\obj\Debug\XmlToJsonConverter.pdb
